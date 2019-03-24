@@ -16,7 +16,7 @@ make room and put the 2 ID of 2 users in room lancer_id and owner_id
 then navigate domain.com/room/ROOM_ID
 only Auth users thats Their IDs in room can navigate and listen to the events and receive messages 
 
-##install 
+## Install Project
 Don't forget to npm install 
 run websocket : php artisan websocket:serve
 make sure it is running on port 6001

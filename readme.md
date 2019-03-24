@@ -6,7 +6,8 @@ with real time
 
 Demo https://youtu.be/ydbYk9SGO7k
 
-This Repo made for UPWORK clone project so don't confuse from tables and columns names as lancer_id and owner_id 
+This Repo made for UPWORK clone project
+So don't confuse from tables and columns names as lancer_id and owner_id 
 as it expected to be owner of project and free lancer that do the project.
 .
 .
